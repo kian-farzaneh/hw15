@@ -1,0 +1,36 @@
+.formContainer {
+    display: inline-block;
+    text-align: center;
+    color: #5d80c9;
+    background-color: white;
+    padding: 20px 40px;
+
+    .form-inputs {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+
+        outline: none;
+
+        input {
+            border: none;
+            height: 45px;
+            box-shadow: 0 0 9px 1px rgba(0, 0, 0, 0.349);
+        };
+        
+    };
+
+    .form-button{
+        margin-top: 24px;
+
+        button{
+            width: 310px;
+            height: 45px;
+            border: none;
+            background-color: #00ba3a;  
+        };
+    
+    };
+
+  
+}
