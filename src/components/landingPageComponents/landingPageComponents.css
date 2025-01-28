@@ -10,11 +10,4 @@
         gap: 20px;
     }
 
-    .socialProof{
-        display: flex;
-        justify-content: center;
-        gap: 30px;
-
-        padding: 5px;
-    }
 }

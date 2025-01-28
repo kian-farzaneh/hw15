@@ -1,4 +1,12 @@
-img{
-    border-radius: 100%;
-    width: 80px;
+.socialProofContainer{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+
+    padding: 5px;
+    
+    img{
+        border-radius: 100%;
+        width: 80px;
+    }
 }
