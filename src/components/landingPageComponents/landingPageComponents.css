@@ -10,4 +10,18 @@
         gap: 20px;
     }
 
+    .comments{
+        background-color: #3d527a;
+        width: 100%;
+        padding: 10px;
+    }
+
+    .repeat{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+
 }

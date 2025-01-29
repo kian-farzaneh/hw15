@@ -1,0 +1,11 @@
+h2,h3{
+    color: #7794d1;
+}
+
+button{
+    width: 500px;
+    height: 40px;
+    background-color: #00ba3a;
+    border: none;
+    margin-top: 10px;
+}
